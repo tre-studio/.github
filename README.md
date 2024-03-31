@@ -1,2 +1,3 @@
-# .github
-Hello world, from trestudio!
+# Hello world
+
+We are trestudio team!
